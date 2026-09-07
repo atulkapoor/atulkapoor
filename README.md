@@ -4,6 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-atulkapoor-0A66C2?logo=linkedin)](https://www.linkedin.com/in/atulkapoor)
 [![fde-framework on PyPI](https://img.shields.io/pypi/v/fde-framework?label=fde-framework&color=3775A9&logo=pypi&logoColor=white)](https://pypi.org/project/fde-framework/)
+![India](https://img.shields.io/badge/📍-India-2F4F4F)
+![Open to consulting](https://img.shields.io/badge/open_to-consulting-1f883d)
 [![Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-green)](https://github.com/atulkapoor/fde-framework/blob/main/LICENSE)
 
 ## 🚀 Start here
@@ -19,6 +21,8 @@ Reads a client brief into typed facts, interviews for what's missing, **refuses 
 <a href="https://github.com/atulkapoor/fde-framework"><img src="https://raw.githubusercontent.com/atulkapoor/fde-framework/main/assets/demo.png" alt="fde in a terminal: a paragraph becomes typed facts, an architecture with a fingerprint, and a build that refuses until the hard gate passes" width="720"></a>
 
 *The opinion inside it: most AI engagements don't fail on models — they fail on unmeasured baselines, unstated boundaries, and evals nobody owns. So the tool refuses politely until those exist.*
+
+Latest: [v0.1.2 — "the first five minutes"](https://github.com/atulkapoor/fde-framework/releases/latest) · built in the open, every release note tells the truth about what moved.
 
 ## 🔭 What I'm doing
 
