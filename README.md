@@ -16,7 +16,7 @@
 pip install fde-framework
 ```
 
-Reads a client brief into typed facts, interviews for what's missing, **refuses to build until seven gates pass**, then emits a deployable project — pipeline, three-layer evals, runbooks, risks — with every decision traced to a fact and every rebuild **byte-identical**. 26 discovery dimensions · 49 approaches · 850+ tests · Apache-2.0.
+Reads a client brief into typed facts, interviews for what's missing, **refuses to build until seven gates pass**, then emits a deployable project — pipeline, three-layer evals, runbooks, risks — with every decision traced to a fact and every rebuild **byte-identical**. 26 discovery dimensions · 51 approaches · 850+ tests · Apache-2.0.
 
 <a href="https://github.com/atulkapoor/fde-framework"><img src="https://raw.githubusercontent.com/atulkapoor/fde-framework/main/assets/demo.png" alt="fde in a terminal: a paragraph becomes typed facts, an architecture with a fingerprint, and a build that refuses until the hard gate passes" width="720"></a>
 
