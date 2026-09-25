@@ -16,7 +16,7 @@
 pip install fde-framework
 ```
 
-Reads a client brief into typed facts, interviews for what's missing, **refuses to build until seven gates pass**, then emits a deployable project — pipeline, three-layer evals, runbooks, risks — with every decision traced to a fact and every rebuild **byte-identical**. 27 discovery dimensions · 53 approaches · 1280+ tests · Apache-2.0.
+Reads a client brief into typed facts, interviews for what's missing, **refuses to build until eight gates pass**, then emits a deployable project — pipeline, three-layer evals, runbooks, risks — with every decision traced to a fact and every rebuild **byte-identical**. Then it keeps going: a scorecard of what the build can prove out of sample, a drift check on the deployed service, a stop condition that can end the engagement, and a written experiment for whether any of it makes an engineer better. 27 discovery dimensions · 53 approaches · 1280+ tests · Apache-2.0.
 
 <a href="https://github.com/atulkapoor/fde-framework"><img src="https://raw.githubusercontent.com/atulkapoor/fde-framework/main/assets/demo.png" alt="fde in a terminal: a paragraph becomes typed facts, an architecture with a fingerprint, and a build that refuses until the hard gate passes" width="720"></a>
 
@@ -51,7 +51,7 @@ Reads a client brief into typed facts, interviews for what's missing, **refuses 
 
 ## 🔜 Coming next
 
-Language / channel / device axes for the discovery corpus (voice-first and low-bandwidth deployments), more jurisdiction packs, and a fine-tuned local brief-reader — adopted the way the corpus makes every client earn a fine-tune: when the labelled pairs exist *and* the measured baseline falls short.
+Real engagements. Four complete runs are public and none is a production client yet, so the next release with a headline is an empirical one: the first five engagements run to [the written protocol](https://github.com/atulkapoor/fde-framework/blob/main/EXPERIMENT.md). No charge, your data stays in your environment, a stop is an acceptable outcome — [bring one](https://github.com/atulkapoor/fde-framework/blob/main/ENGAGE.md).
 
 ## 📫 Reach me
 
