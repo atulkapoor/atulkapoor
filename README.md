@@ -10,13 +10,13 @@
 
 ## 🚀 Start here
 
-🧭 **[fde-framework](https://github.com/atulkapoor/fde-framework)** — a self-evolving framework for Forward Deployed Engineers.
+🧭 **[fde-framework](https://github.com/atulkapoor/fde-framework)** — the decision before the AI build: evidence in, an architecture with receipts out, a scored build or a stop. Works from the command line or inside your coding agent (`fde mcp`).
 
 ```bash
 pip install fde-framework
 ```
 
-Reads a client brief into typed facts, interviews for what's missing, **refuses to build until eight gates pass**, then emits a deployable project — pipeline, three-layer evals, runbooks, risks — with every decision traced to a fact and every rebuild **byte-identical**. Then it keeps going: a scorecard of what the build can prove out of sample, a drift check on the deployed service, a stop condition that can end the engagement, and a written experiment for whether any of it makes an engineer better. 27 discovery dimensions · 53 approaches · 1280+ tests · Apache-2.0.
+Reads a client brief into typed facts, interviews for what's missing, **refuses to build until eight gates pass**, then emits a deployable project — pipeline, three-layer evals, runbooks, risks — with every decision traced to a fact and every rebuild **byte-identical**. Then it keeps going: a scorecard of what the build can prove out of sample, a drift check on the deployed service, a stop condition that can end the engagement, and a written experiment for whether any of it makes an engineer better. 27 discovery dimensions · 53 approaches · 1290+ tests · Apache-2.0.
 
 <a href="https://github.com/atulkapoor/fde-framework"><img src="https://raw.githubusercontent.com/atulkapoor/fde-framework/main/assets/demo.png" alt="fde in a terminal: a paragraph becomes typed facts, an architecture with a fingerprint, and a build that refuses until the hard gate passes" width="720"></a>
 
